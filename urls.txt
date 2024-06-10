@@ -1,0 +1,20 @@
+{
+  "urls": [
+    "http://example.com",
+    "https://example.com",
+    "http://www.example.com",
+    "https://www.example.com",
+    "http://example.com/path",
+    "https://example.com/path?query=123",
+    "http://example.com/path#fragment",
+    "https://example.com/path?query=123#fragment",
+    "http://subdomain.example.com",
+    "https://subdomain.example.com",
+    "http://subdomain.example.com/path",
+    "https://subdomain.example.com/path",
+    "http://example.co.uk",
+    "https://example.co.uk",
+    "http://example.co.uk/path",
+    "https://example.co.uk/path"
+  ]
+}
